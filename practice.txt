@@ -1,2 +1,2 @@
 Hello Git!
-This is my practice file.
+Practice started.
