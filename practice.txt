@@ -1,2 +1,4 @@
-Hello Git!
-Practice started.
+Git add.
+Git commit -m "second commit"
+
+Hello git! 
